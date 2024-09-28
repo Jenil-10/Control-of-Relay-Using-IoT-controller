@@ -1,11 +1,13 @@
-# Control-of-Relay-Using-IoT-controller
+NAME:JENIL PIO J
+REG NO:212223220040
+# EX NO:2 ControlofRelay-UsingIoTcontroller
 
 ##  AIM:
 To control the Relay using Arduino controller
 
 ## Software required:
 Arduino IDE </br>
-Proteus
+Proteus  
 
 ## PROCEDURE:
 ### Arduino IDE
